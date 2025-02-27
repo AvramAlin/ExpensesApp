@@ -54,6 +54,7 @@ const styles = StyleSheet.create({
   description: {
     fontSize: 16,
     marginBottom: 4,
+    maxWidth: 230,
     fontWeight: "bold",
   },
   amountContainer: {
