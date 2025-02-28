@@ -4,10 +4,10 @@ This is a **React Native Expenses App** built for both **iOS and Android** platf
 
 ## Screenshots
 
-<img width="220" alt="1" src="https://github.com/user-attachments/assets/32b01af7-31b9-47f2-8c6a-c1cc04717650" />
-<img width="220" alt="2" src="https://github.com/user-attachments/assets/dbe14faa-6c4a-4293-bd03-abd33ae33601" />
-<img width="220" alt="3" src="https://github.com/user-attachments/assets/dbd2962f-6a45-4a8b-9600-b91edba00b72" />
-<img width="220" alt="4" src="https://github.com/user-attachments/assets/d75eb6f7-e9d2-4926-91b7-7bf05631ce84" />
+<img width="215" alt="1" src="https://github.com/user-attachments/assets/32b01af7-31b9-47f2-8c6a-c1cc04717650" />
+<img width="215" alt="2" src="https://github.com/user-attachments/assets/dbe14faa-6c4a-4293-bd03-abd33ae33601" />
+<img width="215" alt="3" src="https://github.com/user-attachments/assets/dbd2962f-6a45-4a8b-9600-b91edba00b72" />
+<img width="215" alt="4" src="https://github.com/user-attachments/assets/d75eb6f7-e9d2-4926-91b7-7bf05631ce84" />
 
 
 ## Technologies Used
